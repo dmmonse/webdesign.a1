@@ -1,0 +1,40 @@
+
+/* home page link styling starts*/
+h1 a {
+	text-decoration: none;
+    color:#80A2D6;
+	font-family: "Times New Roman", Times, monospace;
+	font-size: 65px;  
+}
+/* home page link styling ends*/
+
+/*nav styling starts*/
+section.navigation nav ul {
+	display:flex;
+	list-style: none;
+	background-color:#FFB6C1;
+  	color:#FFFFFF;
+    font-family: 'Monaco',  Monaco,monospace;
+    text-align: center;
+}
+section.navigation nav ul li a{
+	display: flex;
+	list-style: none;
+	background-color: #FFB6C1;
+	color:#FFFFFF;
+	text-decoration: none;
+	padding:1px,1px;
+    padding-left: 110px;
+    padding-right:110px;
+    text-align:center;
+	
+}
+section.navigation nav ul li a:hover{
+	display: flex;
+	list-style: none;
+	align-content:center;
+	background-color:#FFFFFF;
+	 color:#E8B7E2;
+    text-align:center;
+}
+/*nav styling ends*/
