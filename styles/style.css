@@ -91,7 +91,6 @@ aside,li ,a{
 	display: flex;
 	list-style: none;
 	text-decoration: none;
-	border-radius: 15px 50px 30px 5px;
 	color:#d58cff;
 	font-family: "Futura", monospace;
 	font-size:20px;
