@@ -17,7 +17,7 @@ section.navigation nav ul {
   	color:#FFFFFF;
     font-family: 'Futura',monospace;
     text-align: center;
-	position: relative;
+	position: fixed;
 }
 section.navigation nav ul li a{
 	display: flex;
@@ -30,7 +30,7 @@ section.navigation nav ul li a{
     padding-left: 110px;
     padding-right:110px;
     text-align:center;
-	position: relative;
+	position: fixed;
 	
 }
 section.navigation nav ul li a:hover{
@@ -40,7 +40,7 @@ section.navigation nav ul li a:hover{
 	background-color:#000000;
 	 color:#00ffff;
     text-align:center;
-	position: relative;
+	position: fixed;
 }
 /*nav styling ends*/
 /*overall body */
