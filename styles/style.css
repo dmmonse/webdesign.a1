@@ -14,6 +14,7 @@ h1 a {
 section.navigation nav ul {
 	display: flex;
 	list-style: none;
+	background-color: rgb(109, 109, 109);
   	color:#FFFFFF;
     font-family: 'Futura',monospace;
     text-align: center;
