@@ -12,9 +12,9 @@ h1 a {
 section.navigation nav ul {
 	display:flex;
 	list-style: none;
-	background-color:#FFB6C1;
+	background-color:#6dffda;
   	color:#FFFFFF;
-    font-family: 'Monaco',  Monaco,monospace;
+    font-family: 'Futura',monospace;
     text-align: center;
 }
 section.navigation nav ul li a{
