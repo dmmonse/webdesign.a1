@@ -96,6 +96,9 @@ aside,li ,a{
 	color:#000000;
 	font-family: "Futura", monospace;
 	font-size:20px;
+	padding:10px,10px;
+	padding-left: 220px;
+	padding-right: 220px;
 }
 footer{
 	background-color:none;
