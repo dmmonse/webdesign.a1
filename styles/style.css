@@ -60,3 +60,6 @@ section.article1 {
 	font-family: "Futura", monospace;
     font-size:45px;
 }
+article {
+    width:75%;
+}
