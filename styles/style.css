@@ -33,7 +33,7 @@ section.navigation nav ul li a{
     text-align:center;
 	justify-content: space-around;
 }
-}
+
 section.navigation nav ul li a:hover{
 	display: flex;
 	list-style: none;
