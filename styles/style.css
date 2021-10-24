@@ -2,6 +2,7 @@
 /* home page link styling starts*/
 h1 a {
 	text-decoration: none;
+	background-color: none;
     color:#ffffff;
 	font-family: 'Futura', monospace;
 	font-size: 65px;  
