@@ -14,12 +14,11 @@ section.navigation nav ul {
 	display: flex;
 	list-style: none;
   	color:#FFFFFF;
-	  font-size: 15px;
     font-family: 'Futura',monospace;
     text-align: center;
 	justify-content: space-around;
 }
-
+section.navigation nav ul about
 section.navigation nav ul li a{
 	display: flex;
 	list-style: none;
