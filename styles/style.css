@@ -86,7 +86,7 @@ aside {
 	font-family: "Futura", monospace;
 	font-size:20px;
 }
-aside,li ,a{
+aside,li ,a about{
 	display: flex;
 	list-style: none;
 	text-decoration: none;
