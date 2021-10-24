@@ -9,6 +9,9 @@ h1 a {
 /* home page link styling ends*/
 
 /*nav styling starts*/
+
+
+}
 section.navigation nav ul {
 	display:flex;
 	list-style: none;
@@ -16,6 +19,8 @@ section.navigation nav ul {
   	color:#FFFFFF;
     font-family: 'Futura',monospace;
     text-align: center;
+	position: relative;
+	display:inline-block
 }
 section.navigation nav ul li a{
 	display: flex;
