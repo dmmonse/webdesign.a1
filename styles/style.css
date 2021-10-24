@@ -36,7 +36,7 @@ section.navigation nav ul li a{
 section.navigation nav ul li a:hover{
 	display: flex;
 	list-style: none;
-	font-family: 'Futura', monospace;
+	font-family: "Futura", monospace;
 	align-content:center;
 	background-color:#000000;
 	 color:#00ffff;
@@ -64,7 +64,7 @@ section.article1 {
 	background-color:none;
 	text-align: left;
 	color:#ffffff;
-	font-family: "Futura", monospace;
+	font-family: "Arial ", monospace;
     font-size:45px;
 }
 section.ourstory {
@@ -73,7 +73,7 @@ section.ourstory {
   margin-right: auto;
   width: 50%;
   color:#ffffff;
-  font-family: "Futura", monospace;
+  font-family: "font-family: Helvetica, sans-serif;", monospace;
   font-size:24px;
   text-align:center;
 }
