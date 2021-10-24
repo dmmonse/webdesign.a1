@@ -16,6 +16,8 @@ section.navigation nav ul {
   	color:#FFFFFF;
     font-family: 'Futura',monospace;
     text-align: center;
+	justify-content: space-around;
+}
 	
 }
 section.navigation nav ul li a{
@@ -29,7 +31,8 @@ section.navigation nav ul li a{
     padding-left: 220px;
     padding-right:220px;
     text-align:center;
-ß
+	justify-content: space-around;
+}
 }
 section.navigation nav ul li a:hover{
 	display: flex;
@@ -38,6 +41,8 @@ section.navigation nav ul li a:hover{
 	background-color:#000000;
 	 color:#00ffff;
     text-align:center;
+	justify-content: space-around;
+}
 
 }
 /*nav styling ends*/
