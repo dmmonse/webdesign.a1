@@ -46,3 +46,10 @@ body {
    line-height: 1.65em; 
  }
  /*overall body */
+ section.hero h2{
+	background-color:none;
+	text-align: center;
+	color:#ffffff;
+	font-family: "Futura", monospace;
+    font-size:60px;
+}
