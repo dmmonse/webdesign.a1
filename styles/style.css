@@ -75,7 +75,9 @@ section.ourstory {
   font-family: "Futura", monospace;
   font-size:24px;
 }
-section.asidelink {
+aside {
+	display: flex;
+	list-style: none;
 	color:#ffffff;
 	font-family: "Futura", monospace;
 	font-size:20px;
