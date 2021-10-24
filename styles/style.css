@@ -92,11 +92,8 @@ aside,li ,a{
 	list-style: none;
 	text-decoration: none;
 	background-color: #ffffff;
-	padding:1px,1px;
-    padding-left: 110px;
-    padding-right:110px;
-	border-radius: 1mm;
-	color:#f820ff;
+	border-radius: 15px 50px 30px 5px;
+	color:#000000;
 	font-family: "Futura", monospace;
 	font-size:20px;
 }
