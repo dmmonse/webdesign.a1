@@ -2,8 +2,8 @@
 /* home page link styling starts*/
 h1 a {
 	text-decoration: none;
-    color:#80A2D6;
-	font-family: "Times New Roman", Times, monospace;
+    color:#ffffff;
+	font-family: 'Courier New', monospace;
 	font-size: 65px;  
 }
 /* home page link styling ends*/
@@ -38,3 +38,11 @@ section.navigation nav ul li a:hover{
     text-align:center;
 }
 /*nav styling ends*/
+/*overall body */
+body {
+	background:#000000;
+	 font-size: 27px;
+   font-weight: 300;
+   line-height: 1.65em; 
+ }
+ /*overall body */
