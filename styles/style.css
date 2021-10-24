@@ -20,7 +20,7 @@ section.navigation nav ul {
 section.navigation nav ul li a{
 	display: flex;
 	list-style: none;
-	background-color: #FFB6C1;
+	background-color: #6dffda;
 	color:#FFFFFF;
 	text-decoration: none;
 	padding:1px,1px;
@@ -34,7 +34,7 @@ section.navigation nav ul li a:hover{
 	list-style: none;
 	align-content:center;
 	background-color:#FFFFFF;
-	 color:#E8B7E2;
+	 color:#ff0ee3;
     text-align:center;
 }
 /*nav styling ends*/
