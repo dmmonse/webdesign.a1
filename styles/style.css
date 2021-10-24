@@ -91,14 +91,11 @@ aside,li ,a{
 	display: flex;
 	list-style: none;
 	text-decoration: none;
-	background-color: #ffffff;
 	border-radius: 15px 50px 30px 5px;
-	color:#000000;
+	color:#d58cff;
 	font-family: "Futura", monospace;
 	font-size:20px;
-	padding:10px,10px;
-	padding-left: 220px;
-	padding-right: 220px;
+	padding-left: 3px;
 }
 footer{
 	background-color:none;
