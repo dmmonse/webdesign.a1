@@ -3,7 +3,7 @@
 h1 a {
 	text-decoration: none;
     color:#ffffff;
-	font-family: 'Outer Space', monospace;
+	font-family: 'Futura', monospace;
 	font-size: 65px;  
 }
 /* home page link styling ends*/
@@ -89,7 +89,8 @@ aside,li ,a{
 	display: flex;
 	list-style: none;
 	text-decoration: none;
-	color:#ffffff;
+	color:#f820ff;
+	background-color:#ffffff;
 	font-family: "Futura", monospace;
 	font-size:20px;
 }
