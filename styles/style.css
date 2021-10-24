@@ -82,3 +82,10 @@ aside {
 	font-family: "Futura", monospace;
 	font-size:20px;
 }
+aside,li ,a{
+	display: flex;
+	list-style: none;
+	color:#ffffff;
+	font-family: "Futura", monospace;
+	font-size:20px;
+}
