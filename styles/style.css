@@ -78,6 +78,7 @@ section.ourstory {
 aside {
 	display: flex;
 	list-style: none;
+	text-decoration: none;
 	color:#ffffff;
 	font-family: "Futura", monospace;
 	font-size:20px;
@@ -85,6 +86,7 @@ aside {
 aside,li ,a{
 	display: flex;
 	list-style: none;
+	text-decoration: none;
 	color:#ffffff;
 	font-family: "Futura", monospace;
 	font-size:20px;
