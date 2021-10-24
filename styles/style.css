@@ -51,5 +51,12 @@ body {
 	text-align: center;
 	color:#ffffff;
 	font-family: "Futura", monospace;
-    font-size:60px;
+    font-size:55px;
+}
+section.article1 {
+	background-color:none;
+	text-align: left;
+	color:#ffffff;
+	font-family: "Futura", monospace;
+    font-size:45px;
 }
