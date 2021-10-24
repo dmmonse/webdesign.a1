@@ -91,3 +91,10 @@ aside,li ,a{
 	font-family: "Futura", monospace;
 	font-size:20px;
 }
+footer{
+	background-color:none;
+	text-align: center;
+	color:#ffffff;
+	font-family: "Futura", monospace;
+    font-size:18px;
+}
