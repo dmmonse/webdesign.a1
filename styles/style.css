@@ -25,6 +25,7 @@ section.navigation nav ul li a{
 	list-style: none;
 	background-color: #ffffff;
 	color:#000000;
+	font-family: 'Futura',monospace;
 	text-decoration: none;
 	padding:1px,1px;
     padding-left: 110px;
