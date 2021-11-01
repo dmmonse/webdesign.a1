@@ -46,6 +46,11 @@ section.navigation nav ul li a:hover{
 
 
 }
+section.navigation ul li.active-link>a{
+	text-decoration:underline;
+}
+
+
 /*nav styling ends*/
 /*overall body */
 body {
