@@ -51,11 +51,10 @@ body{
 .hero h2{
 text-align:left;
 }
-.article1 figure{
+  figure{
 	float:right;
 	padding-right:100px ;
-	text-align: center;
-	padding-bottom: 500px;
+	text-align: center,
 
 }
 img{
