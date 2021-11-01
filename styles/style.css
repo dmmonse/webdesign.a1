@@ -13,7 +13,7 @@ body {
 	margin: 0 auto;
   }
   header{
-	background-color: #000000;
+	background-color: #ffffff;
 	}
   header::after {
 	  content: '';
