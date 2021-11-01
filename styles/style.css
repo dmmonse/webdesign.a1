@@ -25,7 +25,7 @@ body {
 .home li a {
 	color:#ffbb6e;
 }
-nav{
+section.container nav{
 	float: right;
 }
 section.container nav ul {
