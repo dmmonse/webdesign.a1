@@ -39,11 +39,16 @@ nav ul {
 nav li{
 	display: inline-block;
 	margin-left: 70%;
-
-	
 }
-
-
+nav a{
+	color:#ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+nav a:active{
+	text-decoration: underline;
+}
 
 
 
