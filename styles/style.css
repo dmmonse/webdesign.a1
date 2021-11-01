@@ -43,64 +43,6 @@ div.logo a{
 .nav-links li{
 	list-style: none;
 }
-body {
-	margin: 0;
-	background:#ffffff;
-	 font-size: 27px;
-   font-weight: 300;
-   line-height: 1.65em; 
- }
-  /*overall body */
-  /*nav begins*/
-  
-
-/*nav styling ends*/
-
- .hero h2{
-	background-color:none;
-	text-align: center;
-	color:#000000;
-	font-family: "Futura", monospace;
-    font-size:55px;
-}
-.article1 {
-	background-color:none;
-	text-align: left;
-	color:#000000;
-	font-family: "Arial ", monospace;
-    font-size:45px;
-}
-.ourstory {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  color:#000000;
-  font-family: "font-family: Helvetica, sans-serif;", monospace;
-  font-size:24px;
-  text-align:center;
-}
-aside {
-	display: flex;
-	list-style: none;
-	text-decoration: none;
-	color:#000000;
-	font-family: "Futura", monospace;
-	font-size:20px;
-}
-aside,li ,a{
-	display: flex;
-	list-style: none;
-	text-decoration: none;
-	color:#000000;
-	font-family: "Futura", monospace;
-	font-size:20px;
-	padding-left: 3px;
-}
-footer{
-	background-color:none;
-	text-align: center;
-	color:#000000;
-	font-family: "arial", monospace;
-    font-size:10px;
+body{
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
