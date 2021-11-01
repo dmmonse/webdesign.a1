@@ -21,6 +21,7 @@ body {
 	  content: '';
 	  display: table;
 	  clear: both;
+	  list-style: none;
   }
 .home{
 	float:left;	
