@@ -14,7 +14,7 @@ body {
 	color:#ffffff
   }
   header{
-	background-color: #f3bc47;
+	background-color: #000000;
 	}
   header::after {
 	  content: '';
@@ -23,6 +23,7 @@ body {
   }
 .home{
 	float:left;	
+	color:rgb(255, 198, 128)
 }
 nav{
 	float: right;
@@ -41,7 +42,7 @@ nav li{
 	margin-left: 70%;
 }
 nav a{
-	color:#ffffff;
+	color:#ffbb6e;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 14px;
