@@ -9,7 +9,8 @@ body {
   /*overall body */
   /*nav begins*/
   header{
-	background: #000000;
+	background-color: #000000;
+	color:#ffc37e
 }
   .container{
 	width:80%;
