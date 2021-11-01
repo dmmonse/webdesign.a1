@@ -14,8 +14,7 @@ body {
   }
   header{
 	background-color: #000000;
-	color:#ffc37e
-}
+	}
   header::after {
 	  content: '';
 	  display: table;
@@ -28,7 +27,23 @@ body {
 }
 nav{
 	float:right;
+	color:#ffffff
 }
+nav ul {
+	margin:0;
+	padding: 0;
+	list-style:none;
+	color:#ffffff
+}
+nav li{
+	display: inline-block;
+	margin-left: 70 px;
+	color:#ffffff
+}
+
+
+
+
 
 /*nav styling ends*/
 
