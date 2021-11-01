@@ -46,6 +46,9 @@ div.logo a{
 body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
+.hero h2{
+text-align:left;
+}
 figure{
 	float: right;
 	text-align: center;
