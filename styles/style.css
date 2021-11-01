@@ -34,9 +34,6 @@ section.container nav ul {
 	background-color:#000000;
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
-	margin:0;
-	padding-top:27;
-
 }
 section.container nav ul li a{
 	display: flex;
@@ -44,8 +41,6 @@ section.container nav ul li a{
 	background-color: #000000;
 	color:#ffbb6e;
 	text-decoration: none;
-    padding-left: 70px;
-    padding-right:70 px
 }
 /*nav styling ends*/
 
