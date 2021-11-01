@@ -34,18 +34,6 @@ section.navigation nav ul li a{
     text-align:center;
 	
 }
-
-section.navigation nav ul li a:hover{
-	display: flex;
-	list-style: none;
-	font-family: "Futura", monospace;
-	align-content:center;
-	background-color:#000000;
-	 color:#00ffff;
-    text-align:center;
-
-
-}
 section.navigation ul li.active-link>a{
 	text-decoration:underline;
 }
