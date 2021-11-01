@@ -24,33 +24,37 @@ body {
 }
 .home li a {
 	color:#ffbb6e;
-}
-section.container nav{
+}.container nav{
 	float: right;
-	padding: top 200px;
-	padding-bottom: 100px;
-	margin-left: 50px;
-	margin-right: 50px;
 }
-section.container nav ul {
+.container nav ul {
 	display:flex;
+	margin:0;
+	padding:0;
 	list-style: none;
 	background-color:#000000;
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
-	padding: top 200px;
-	padding-bottom: 100px;
 }
-section.container nav ul li a{
+section.container nav ul li {
 	display: flex;
 	list-style: none;
 	background-color: #000000;
 	color:#ffbb6e;
 	text-decoration: none;
-	padding: top 200px;
-	padding-bottom: 100px;
-	
+	margin-left:70px;
+	padding:0;
 }
+ection.container nav ul a {
+	display: flex;
+	list-style: none;
+	background-color: #000000;
+	color:#ffbb6e;
+	text-decoration: none;
+	margin-left:70px;
+	padding:0;
+}
+
 /*nav styling ends*/
 
  .hero h2{
