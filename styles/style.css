@@ -89,6 +89,14 @@ img{
 	color: #000000;
 	font-size: 24px;
 }
+aside{
+	background-color:none;
+	text-align:left;
+	color:#000000;
+	padding-left: 250px;
+	font-family: "arial", monospace;
+    font-size:20px;
+}
 footer{
 	background-color:none;
 	text-align: center;
