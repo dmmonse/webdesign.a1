@@ -11,7 +11,8 @@ body {
   .container{
 	width:80%;
 	margin: 0 auto;
-	color:#ffffff
+	color:#ffffff;
+	list-style-type: none;
   }
   header{
 	background-color: #000000;
