@@ -69,3 +69,8 @@ img{
 	font-weight:bold ;
 	font-size: 100px;
 }
+.article1 img{
+	float:left;
+	padding-left:100px ;
+	text-align: center;
+}
