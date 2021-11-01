@@ -47,6 +47,6 @@ body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 figure{
-	align-content: right;
+	float: right;
 	text-align: center;
 }
