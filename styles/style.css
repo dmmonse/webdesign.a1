@@ -1,4 +1,17 @@
-/*nav styling starts*/
+/*overall body */
+body {
+	margin: 0;
+	background:#ffffff;
+	 font-size: 27px;
+   font-weight: 300;
+   line-height: 1.65em; 
+ }
+  /*overall body */
+  /*nav begins*/
+  .container{
+	width:80%;
+	margin: 0 auto;  
+  }
 header{
 	background: #000000;
 }
@@ -7,16 +20,12 @@ section.home{
 	color:#ffffff;
 	
 }
+nav{
+	float:right;
+}
 
 /*nav styling ends*/
-/*overall body */
-body {
-	background:#ffffff;
-	 font-size: 27px;
-   font-weight: 300;
-   line-height: 1.65em; 
- }
- /*overall body */
+
  section.hero h2{
 	background-color:none;
 	text-align: center;
