@@ -11,6 +11,13 @@ nav{
 	min-width: 8vh;
 	background-color: rgb(255, 182, 86);
 }
+.logo{
+	color:#ffffff;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	font-size:20px;
+}
+
 body {
 	margin: 0;
 	background:#ffffff;
