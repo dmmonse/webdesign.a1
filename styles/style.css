@@ -28,9 +28,7 @@ body {
 section.container nav{
 	float: right;
 	padding: top 200px;
-	padding-left: 200px;
 	padding-bottom: 10000px;
-	padding-right: 200px;
 }
 section.container nav ul {
 	display:flex;
@@ -39,9 +37,7 @@ section.container nav ul {
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
 	padding: top 200px;
-	padding-left: 200px;
 	padding-bottom: 100px;
-	padding-right: 200px;
 }
 section.container nav ul li a{
 	display: flex;
@@ -50,9 +46,8 @@ section.container nav ul li a{
 	color:#ffbb6e;
 	text-decoration: none;
 	padding: top 200px;
-	padding-left: 200px;
 	padding-bottom: 100px;
-	padding-right: 200px;
+	
 }
 /*nav styling ends*/
 
