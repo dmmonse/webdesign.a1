@@ -15,7 +15,7 @@ section.navigation nav ul {
 	display: flex;
 	list-style: none;
 	background-color: rgb(0, 0, 0);
-  	color:#FFFFFF;
+  	color:#ffb867;
     font-family: 'Futura',monospace;
     text-align: center;
 	justify-content: space-around;
@@ -25,7 +25,7 @@ section.navigation nav ul li a{
 	display: flex;
 	list-style: none;
 	background-color: #000000;
-	color:#ffffff;
+	color:#ffb867;
 	font-family: 'Futura',monospace;
 	text-decoration: none;
 	padding:1px,1px;
@@ -36,6 +36,7 @@ section.navigation nav ul li a{
 }
 section.navigation ul li.active-link>a{
 	text-decoration:underline;
+	text-decoration: #ffb867;
 }
 
 
