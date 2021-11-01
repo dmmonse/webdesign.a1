@@ -34,6 +34,9 @@ section.container nav ul {
 	background-color:#000000;
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
+	margin:0;
+	padding-top:27;
+
 }
 section.container nav ul li a{
 	display: flex;
