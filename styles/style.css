@@ -17,12 +17,6 @@ body {
   header{
 	background-color: #000000;
 	}
-  header::after {
-	  content: '';
-	  display: table;
-	  clear: both;
-	  list-style: none;
-  }
 .home{
 	float:left;	
 	color:rgb(255, 198, 128);
@@ -33,35 +27,27 @@ body {
 }
 nav{
 	float: right;
-	
-	
 }
-nav ul {
-	margin:0;
-	padding: 0;
+section.container nav ul {
+	display:flex;
 	list-style: none;
-	display: inline-block;
-
+	background-color:#000000;
+	color:#ffbb6e;
+    font-family: 'Monaco',  Monaco,monospace;
+    text-align: center;
 }
-nav li{
-	display: inline-block;
-	margin-left: 70%;
-	list-style:none;
-}
-nav a{
+section.container nav ul li a{
+	display: flex;
+	list-style: none;
+	background-color: #000000;
 	color:#ffbb6e;
 	text-decoration: none;
-	text-transform: uppercase;
-	font-size: 14px;
-	list-style:none;
+	padding:1px,1px;
+    padding-left: 110px;
+    padding-right:110px;
+    text-align:center;
+	
 }
-nav ul li:active-link{
-	text-decoration: underline;
-	color:#ffbb6e;
-}
-
-
-
 /*nav styling ends*/
 
  .hero h2{
