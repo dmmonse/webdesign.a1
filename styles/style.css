@@ -23,7 +23,8 @@ body {
   }
 .home{
 	float:left;	
-	color:rgb(255, 198, 128)
+	color:rgb(255, 198, 128);
+	font-size: 20 px;
 }
 .home li a {
 	color:#ffbb6e;
