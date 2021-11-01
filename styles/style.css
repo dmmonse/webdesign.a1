@@ -89,3 +89,10 @@ img{
 	color: #000000;
 	font-size: 24px;
 }
+footer{
+	background-color:none;
+	text-align: center;
+	color:#000000;
+	font-family: "arial", monospace;
+    font-size:10px;
+}
