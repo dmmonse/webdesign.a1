@@ -52,7 +52,7 @@ nav a{
 	font-size: 14px;
 	list-style:none;
 }
-nav a:active-link{
+nav ul li:active-link{
 	text-decoration: underline;
 	color:#ffbb6e;
 }
