@@ -1,41 +1,10 @@
-
-/* home page link styling starts*/
-h1 a {
-	text-decoration: none;
-	background-color: none;
-    color:#000000;
-	font-family: 'Futura', monospace;
-	font-size: 65px;  
-}
-/* home page link styling ends*/
-
 /*nav styling starts*/
-
-section.navigation ul li.active-link>a{
-	text-decoration:underline;
-	text-decoration:color #ffb867;
+header{
+	background: #000000;
 }
-section.navigation nav ul {
-	display: flex;
-	list-style: none;
-	background-color: rgb(0, 0, 0);
-  	color:#ffb867;
-    font-family: 'Futura',monospace;
-    text-align: center;
-	justify-content: space-around;
-
-}
-section.navigation nav ul li a{
-	display: flex;
-	list-style: none;
-	background-color: #000000;
-	color:#ffb867;
-	font-family: 'Futura',monospace;
-	text-decoration: none;
-	padding:1px,1px;
-    padding-left: 110px;
-    padding-right:110px;
-    text-align:center;
+section.home{
+	float:left;
+	color:#ffffff;
 	
 }
 
