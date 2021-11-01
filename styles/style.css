@@ -27,6 +27,10 @@ body {
 }
 section.container nav{
 	float: right;
+	padding: top 200px;
+	padding-left: 200px;
+	padding-bottom: 200px;
+	padding-right: 200px;
 }
 section.container nav ul {
 	display:flex;
@@ -34,6 +38,10 @@ section.container nav ul {
 	background-color:#000000;
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
+	padding: top 200px;
+	padding-left: 200px;
+	padding-bottom: 200px;
+	padding-right: 200px;
 }
 section.container nav ul li a{
 	display: flex;
