@@ -89,15 +89,15 @@ img{
 	color: #000000;
 	font-size: 24px;
 }
-aside{
+aside li a {
+	text-decoration: none;
+	list-style: none;
 	background-color:none;
 	text-align:left;
 	color:#000000;
 	padding-left: 250px;
 	font-family: "arial", monospace;
     font-size:20px;
-	text-decoration: none;
-	list-style: none;
 }
 footer{
 	background-color:none;
