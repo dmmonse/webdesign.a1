@@ -36,25 +36,14 @@ body {
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
 }
-section.container nav ul li {
+section.container nav ul li a {
 	display: flex;
 	list-style: none;
 	background-color: #000000;
 	color:#ffbb6e;
 	text-decoration: none;
-	margin-left:70px;
-	padding:0;
+	
 }
-ection.container nav ul a {
-	display: flex;
-	list-style: none;
-	background-color: #000000;
-	color:#ffbb6e;
-	text-decoration: none;
-	margin-left:70px;
-	padding:0;
-}
-
 /*nav styling ends*/
 
  .hero h2{
