@@ -55,5 +55,7 @@ figure{
 }
 .article1{
 	 left:0%;
-	 text-align: center;
+}
+.article1 h2{
+	text-align: center;
 }
