@@ -11,7 +11,7 @@ body {
   .container{
 	width:80%;
 	margin: 0 auto;
-	color:#ffffff;
+	color:#000000;
 	list-style-type: none;
   }
   header{
@@ -34,7 +34,6 @@ section.container nav ul {
 	background-color:#000000;
 	color:#ffbb6e;
     font-family: 'Monaco',  Monaco,monospace;
-    text-align: center;
 }
 section.container nav ul li a{
 	display: flex;
@@ -45,8 +44,6 @@ section.container nav ul li a{
 	padding:1px,1px;
     padding-left: 110px;
     padding-right:110px;
-    text-align:center;
-	
 }
 /*nav styling ends*/
 
