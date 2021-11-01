@@ -29,8 +29,6 @@ body {
 }
 .container nav ul {
 	display:flex;
-	margin:0;
-	padding:0;
 	list-style: none;
 	background-color:#000000;
 	color:#ffbb6e;
@@ -42,6 +40,9 @@ section.container nav ul li a {
 	background-color: #000000;
 	color:#ffbb6e;
 	text-decoration: none;
+	padding:1px,1px;
+    padding-left: 110px;
+    padding-right:110px;
 	
 }
 /*nav styling ends*/
