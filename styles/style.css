@@ -50,10 +50,12 @@ body{
 text-align:left;
 }
 figure{
-	float: right;
+	right:0;
 	text-align: center;
 }
 .article1{
 	float: left;
-	text-align: left;
+}
+.article1 h2{
+	text-align: ;
 }
