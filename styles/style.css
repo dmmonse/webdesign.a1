@@ -8,14 +8,14 @@ body {
  }
   /*overall body */
   /*nav begins*/
+  header{
+	background: #000000;
+}
   .container{
 	width:80%;
 	margin: 0 auto;  
   }
-header{
-	background: #000000;
-}
-section.home{
+.home{
 	float:left;
 	color:#ffffff;
 	
