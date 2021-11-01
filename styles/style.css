@@ -1,4 +1,16 @@
 /*overall body */
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing:border-box;
+}
+nav{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-width: 8vh;
+	background-color: rgb(255, 182, 86);
+}
 body {
 	margin: 0;
 	background:#ffffff;
@@ -8,52 +20,8 @@ body {
  }
   /*overall body */
   /*nav begins*/
-  .container{
-	color:rgb(255, 198, 128);
-	font-size: 20 px;
-	background-color: #000000;
-	padding:1px,1px;
-    padding-left: 110px;
-    padding-right:110px;
-	list-style-type: none;
-  }
-  header{
-	color:rgb(255, 198, 128);
-	background-color: #000000;
-	}
-.home{
-	float:left;	
-	color:rgb(255, 198, 128);
-	font-size: 20 px;
-	background-color: #000000;
-	padding:1px,1px;
-    padding-left: 110px;
-    padding-right:110px;
-	
-}
-.home li a {
-	color:#ffbb6e;
-}.container nav{
-	float: right;
-}
-.container nav ul {
-	display:flex;
-	list-style: none;
-	background-color:#000000;
-	color:#ffbb6e;
-    font-family: 'Monaco',  Monaco,monospace;
-}
-section.container nav ul li a {
-	display: flex;
-	list-style: none;
-	background-color: #000000;
-	color:#ffbb6e;
-	text-decoration: none;
-	padding:1px,1px;
-    padding-left: 110px;
-    padding-right:110px;
-	
-}
+  
+
 /*nav styling ends*/
 
  .hero h2{
