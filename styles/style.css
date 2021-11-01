@@ -94,10 +94,11 @@ aside li a {
 	list-style: none;
 	background-color:none;
 	text-align:left;
-	color:#000000;
+	color: #ffaa64;
 	padding-left: 250px;
 	font-family: "arial", monospace;
-    font-size:20px;
+	font-weight: bold;
+    font-size: 25px;
 }
 footer{
 	background-color:none;
