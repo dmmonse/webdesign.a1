@@ -47,14 +47,6 @@ div.logo a{
 }
 .nav-links ul li a:active{
 	text-decoration:underline;
-	color: #ffaa64;
- }
- .nav-links ul li a:hover{
-	display: flex;
-	list-style: none;
-	align-content:center;
-	background-color:#ffaa64;
-	 color:#000000;
 }
 body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
