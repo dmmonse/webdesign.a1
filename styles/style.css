@@ -45,6 +45,10 @@ div.logo a{
 .nav-links li{
 	list-style: none;
 }
+#main-navigation ul li.active-link>a{
+	text-decoration:underline;
+	color: #ffaa64;
+ }
 body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
