@@ -46,8 +46,8 @@ div.logo a{
 	list-style: none;
 }
 a:is(:link, :active, :visited) .active{
-	color: #ffaa64;
-	background-color: black;
+	color: black;
+	background-color:#ffaa64;
 }
 body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
