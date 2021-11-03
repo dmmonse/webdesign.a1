@@ -45,7 +45,7 @@ div.logo a{
 .nav-links li{
 	list-style: none;
 }
-a:is(:link, :active, :visited) .active{
+a:is(:link, :active, :visited) .nav-links{
 	color: black;
 	background-color:#ffaa64;
 }
