@@ -45,6 +45,10 @@ div.logo a{
 .nav-links li{
 	list-style: none;
 }
+a:is(:link, :active, :visited) .active{
+	color: #ffaa64;
+	background-color: black;
+}
 body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
