@@ -1,15 +1,10 @@
 @import"./vendor/normalize.scss";
-@import './partials/_colors.scss';
-@import './partials/_typography.scss';
-@import '.partials/_mixinx.scss';
+@import "./partials/_colors.scss";
+@import "./partials/_typography.scss";
+@import ".partials/_mixinx.scss";
 
 
-@mixin a1h2{
-    $secondary-font-color:#DB8D33;
-    $heading: 'Marck Script', cursive; 
-    font: 45px;
-}
 .a1-h2{
-    @include  a1h2;
+    @include discover;
 
 }
