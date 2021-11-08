@@ -1,10 +1,11 @@
 @import"./vendor/normalize.scss";
 @import "./partials/_colors.scss";
 @import "./partials/_typography.scss";
-@import ".partials/_mixinx.scss";
+@import "./partials/mixinx";
 
-
-.a1-h2{
-    @include discover;
-
+@include discover{
+    
 }
+
+
+
