@@ -1,5 +1,3 @@
 @import"./vendor/normalize.scss";
-@import './partials/_colors.scss';
-@import './partials/_typography.scss';
-@import '.partials/_mixinx.scss';
+@import "./main.scss";
 
