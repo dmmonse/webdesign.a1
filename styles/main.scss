@@ -3,7 +3,7 @@
 @import './partials/_typography.scss';
 
 
-.a-h2{
-    @include  a1h2;
+.a1-h2{
+    @include  a1h2($a1h2);
 
 }
